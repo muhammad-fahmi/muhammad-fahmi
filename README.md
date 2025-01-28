@@ -26,8 +26,8 @@ _Period: 1+ Tahun_
 
 ## Kontak
 
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [linkedin.com/in/muhammadfahmi](https://linkedin.com/in/muhammadfahmi)
+- Email: [fahmipradna4@gmail.com](mailto:fahmipradana4@gmail.com)
+- LinkedIn: [inkedin.com/in/muhammadfahmi1884/](https://www.linkedin.com/in/muhammadfahmi1884/)
 - Website: [muhammadfahmi.com](https://muhammadfahmi.com)
 
 Terima kasih telah mengunjungi profil GitHub saya. Jangan ragu untuk menghubungi saya jika ada pertanyaan atau peluang kolaborasi!
